@@ -42,7 +42,7 @@ Detailed diagrams are available in `topology/diagrams/`.
 
 ## Lab Environment
 - Platform: EVE-NG / PNETLab
-- SD-WAN Version: Cisco Viptela
+- SD-WAN Version: Cisco Viptela 20.9.1
 - Transport Types: Internet, MPLS
 - Routing: OMP (Overlay Management Protocol)
 
