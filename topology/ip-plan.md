@@ -3,9 +3,11 @@
 ## Control Plane
 | Component | Network |
 |--------|--------|
-| vManage | 10.0.0.0/24 |
-| vBond   | 10.0.1.0/24 |
-| vSmart  | 10.0.2.0/24 |
+| vManage | 123.123.123.2/24 |
+| vBond   | 123.123.123.3/24 |
+| vSmart-Region-1  | 123.123.123.3/24 |
+| vSmart-Region-2  | 123.123.123.4/24 |
+| vSmart-Region-BA  | 123.123.123.5/24 |
 
 ## Region 1
 - Hub: 172.16.1.0/24
